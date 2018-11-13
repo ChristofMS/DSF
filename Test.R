@@ -5,6 +5,18 @@ cdghk fk
 rm(list = ls())
 
 
-flkv
+ggplot2::sdfeide
 
-hJSHjfksd
+
+dafjeü0fvn 
+
+dasege deee
+dehe 
+
+3*9  
+adlkefe
+
+adsfheuduweedeefefGZLJBLUZRGDAS
+
+¨
+GHÖJGÖ
