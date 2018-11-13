@@ -12,7 +12,7 @@ flkv
 hjlfbukr
 baanaaa
 
-genfasdfege<<<<<<< HEAD
+<<<<<<< HEAD
 genfasdfege
 =======
 hallo
