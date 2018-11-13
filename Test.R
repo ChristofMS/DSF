@@ -20,6 +20,7 @@ banane
 
 
 <<<<<<< HEAD
+hallooo
 =======
 banane
 >>>>>>> 57ebb8c0398799ccbaf48565266871ca39c0486a
